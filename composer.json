@@ -1,5 +1,5 @@
 {
-    "name": "marellocommerce/marello-magento-bundle",
+    "name": "bavth/marello-magento-bundle",
     "description": "Marello package, integrates Products, Inventory and Orders with Magento",
     "keywords": ["Marello", "Magento", "Product", "Integration"],
     "homepage": "https://github.com/marellocommerce/marello-magento-bundle.git",
@@ -15,7 +15,7 @@
         "exclude-from-classmap": ["/Tests/"]
     },
     "require": {
-        "php": "7.1.*",
+        "php": "7.*",
         "marellocommerce/marello": "1.x-dev"
     },
     "repositories": {
